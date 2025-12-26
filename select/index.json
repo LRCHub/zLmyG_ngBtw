@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Same numbers",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2025-12-26T12:36:36.202552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Same Numbers",
+      "artist": "Total",
+      "has_synced": true,
+      "path": "select/01_Same_Numbers_Total.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Same numbers",
+      "artist": "Nogizaka46",
+      "has_synced": false,
+      "path": "select/02_Same_numbers_Nogizaka46.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Same numbers",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_Same_numbers_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Same numbers",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_Same_numbers_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Same numbers",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_03_Same_numbers_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Same Numbers",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_04_Same_Numbers_乃木坂46.txt"
+    }
+  ]
+}
